@@ -61,7 +61,7 @@ Therefore, can not be sent mails on behalf of someone else, but can be read(rece
 mx-takeover requires **go1.17** to install successfully. Run the following command to install.
 
 ```sh
-go install -v github.com/musana/mx-takeover@latest
+go install -v github.com/trhacknon/mx-takeover@latest
 ```
 
 # Usage
@@ -84,7 +84,7 @@ This will display help for the tool.
 |_| |_| |_/_/\_\     \__\__,_|_|\_\___|\___/ \_/ \___|_|
 
 hunting misconfigured MX records
-musana.net | @musana
+musana.net | @trhacknon
 
   -check-whois
         Check whois for detecting unregistered mx domain or will be expire soon
@@ -137,7 +137,7 @@ musana.net | @musana
 |_| |_| |_/_/\_\     \__\__,_|_|\_\___|\___/ \_/ \___|_|
 
 hunting misconfigured MX records
-musana.net | @musana
+musana.net | @trhacknon
 
 [*] Scan Starting Time: 2022-05-23 15:15:22
 [!] Mailgun-api was not provided. You should register domain to mailgun manually
