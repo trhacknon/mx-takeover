@@ -1,4 +1,4 @@
-module github.com/musana/mx-takeover
+module github.com/trhacknon/mx-takeover
 
 go 1.18
 
