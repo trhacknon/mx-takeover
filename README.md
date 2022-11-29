@@ -61,7 +61,9 @@ Therefore, can not be sent mails on behalf of someone else, but can be read(rece
 mx-takeover requires **go1.17** to install successfully. Run the following command to install.
 
 ```sh
-go install -v github.com/trhacknon/mx-takeover@latest
+git clone https://github.com/trhacknon/mx-takeover
+go build mx-takeover.go
+mv mx-takeover /usr/bin/
 ```
 
 # Usage
