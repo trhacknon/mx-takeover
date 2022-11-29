@@ -301,6 +301,6 @@ func printBanner() {
 |_| |_| |_/_/\_\     \__\__,_|_|\_\___|\___/ \_/ \___|_|   
 														
 hunting misconfigured MX records
-musana.net | @musana
+musana.net | @trhacknon
  `)
 }
